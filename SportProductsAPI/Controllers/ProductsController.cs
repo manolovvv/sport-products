@@ -11,6 +11,7 @@ using SportProductsAPI.Models;
 
 namespace SportProductsAPI.Controllers
 {
+    [ApiVersion("1.0")]
     [Route("[controller]")]
     [ApiController]
     public class ProductsController : ControllerBase

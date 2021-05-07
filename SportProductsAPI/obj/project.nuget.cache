@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "DMxmneLwX9Dr6fS0co2/oTv+uswFbYBGeTlIwZeUnLh/Pliuxzla7IcuQ1gQWjMjulLfU0OiVhxzOfeSZv86uA==",
+  "dgSpecHash": "DQBbuB2YzsmUOyktYBzvs05n5cTgxzCJA4GhYb9QxHAbCZH7cRkfrDHqBLwEOqbxDWu2Df1Tcg0RA0Q6GiTnVw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Manolov\\Desktop\\PROJECTS\\SportProducts\\SportProductsAPI\\SportProductsAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Manolov\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
+    "C:\\Users\\Manolov\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.0.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.0.0.nupkg.sha512",
     "C:\\Users\\Manolov\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.4\\microsoft.entityframeworkcore.5.0.4.nupkg.sha512",
     "C:\\Users\\Manolov\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.4\\microsoft.entityframeworkcore.abstractions.5.0.4.nupkg.sha512",
     "C:\\Users\\Manolov\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.4\\microsoft.entityframeworkcore.analyzers.5.0.4.nupkg.sha512",
